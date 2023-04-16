@@ -1,4 +1,4 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWepKMtA1fQroeGb83ijYvDP-a-FF71QD6bA&usqp=CAU)
+![logo](https://github.com/Prriya-Karn/Prriya-Karn/blob/main/download%20(1).jpg)
 
 <h1 align="center">Hi 👋, I'm Priya Karn</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
