@@ -1,4 +1,4 @@
-![logo](https://github.com/Prriya-Karn/Prriya-Karn/blob/main/download%20(1).jpg)
+![logo](https://github.com/Prriya-Karn/Prriya-Karn/blob/main/linkedinheaders-desktop.jpg)
 
 <h1 align="center">Hi 👋, I'm Priya Karn</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
