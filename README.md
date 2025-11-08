@@ -61,5 +61,5 @@
 </p>
 
 
-### 🏅 My Holopin Badges
+### 🏅 My Hactoberfest"25 Badges
 [![@prriyakarn's Holopin board](https://holopin.me/prriyakarn)](https://holopin.io/@prriyakarn)
