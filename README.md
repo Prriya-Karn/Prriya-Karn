@@ -1,7 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Priya Karn</h1>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <ul>
   <li>📍 I live in Delhi, India</li>
