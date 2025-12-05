@@ -1,4 +1,3 @@
-![logo](https://github.com/Prriya-Karn/Prriya-Karn/blob/main/linkedinheaders-desktop.jpg)
 
 <h1 align="center">Hi 👋, I'm Priya Karn</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -59,9 +58,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin: 0 8px 8px 0;"/> 
   </a> 
 </p>
-![Priya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prriya-Karn&show_icons=true)
-
-
 
 
 ### 🏅 My Hactoberfest"25 Badges
