@@ -8,7 +8,7 @@
   <li>I am actively practicing Data Structures and Algorithms (DSA).</li>
   <li>I usually work on frontend projects using React, where I build clean, responsive UI components and user-friendly interfaces.</li>
   <li>I love contributing to open-source projects and improving community-driven tools.</li>
-  <li>My Tech Stack: ReactJS, NextJS, JavaScript, TypeScript, TailwindCSS, API Integration, Redux, DSA</li>
+  <li>My Tech Stack: ReactJS, NextJS, JavaScript, TypeScript, TailwindCSS, API Integration, Express, Mysql, Redux, DSA</li>
 </ul>
 </p>
 
