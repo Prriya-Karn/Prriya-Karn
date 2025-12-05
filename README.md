@@ -59,7 +59,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin: 0 8px 8px 0;"/> 
   </a> 
 </p>
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prriya-Karn&layout=compact)
+![Priya's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prriya-Karn&show_icons=true)
+
 
 
 
